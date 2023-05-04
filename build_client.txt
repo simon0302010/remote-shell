@@ -1,1 +1,1 @@
-g++ client12.cpp -o client.exe -static -mwindows -lurlmon -lws2_32 libgcc_s_seh-1.dll libstdc++-6.dll libwinpthread-1.dll
+g++ client.cpp -o client.exe -static -mwindows -lurlmon -lws2_32 libgcc_s_seh-1.dll libstdc++-6.dll libwinpthread-1.dll
